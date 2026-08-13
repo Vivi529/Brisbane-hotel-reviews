@@ -1,0 +1,12 @@
+pandas
+openpyxl
+numpy
+torch
+transformers
+sentence-transformers
+scikit-learn
+scipy
+umap-learn
+hdbscan
+tqdm
+matplotlib
