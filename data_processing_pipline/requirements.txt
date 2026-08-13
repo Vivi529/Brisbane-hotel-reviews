@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+spacy
+torch
+transformers
+tqdm
+lightgbm
+optuna
+shap
+scikit-learn
+scipy
+matplotlib
